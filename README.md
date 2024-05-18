@@ -2,6 +2,7 @@
 
 A fork of SwayOSD with Hyprlang support and additional features.
 Heavily WIP (fresh fork)
+Obviously huge credits to SwayOSD, and I'll try to keep up with their progress. I just forked to make something that's more integrated with Hyprland.
 
 ## Roadmap
 - [ ] Hyprlang Conf Support
